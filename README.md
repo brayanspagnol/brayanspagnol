@@ -32,4 +32,4 @@ Arch Linux + Hyprland.
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/brayanspagnol?style=flat-square&label=followers&color=111)](https://github.com/brayanspagnol?tab=followers)
-![Profile views](https://komarev.com/ghpvc/?username=brayanspagnol&style=flat-square&color=111111&label=views)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=brayanspagnol.brayanspagnol&left_text=views&left_color=%23111&right_color=%23333)
