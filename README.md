@@ -31,11 +31,9 @@ and in my free time I make things that probably shouldn't run in a browser.<br/>
 
 <br/>
 
-<img src="./assets/h-projects.png" width="100%" alt="Projects" />
+<img src="./assets/h-contributions.png" width="100%" alt="Contributions" />
 
-**[ps2-web](https://github.com/brayanspagnol/ps2-web)** — PS2 games in the browser, Play! emulator compiled to WebAssembly<br/>
-**[screenup](https://github.com/brayanspagnol/screenup)** — paste a URL and it opens in a floating window on top of everything on Linux<br/>
-**[gif-extension](https://github.com/brayanspagnol/gif-extension)** — search GIFs and drag them straight into any app
+<img src="https://raw.githubusercontent.com/brayanspagnol/brayanspagnol/output/snake.svg" width="100%" alt="Snake eating the contribution graph" />
 
 <br/>
 
