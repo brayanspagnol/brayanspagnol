@@ -1,6 +1,6 @@
 ### Brayan Spagnol
 
-Desenvolvedor. Construo sistemas internos e automações no trabalho, e nas horas vagas faço coisas que provavelmente não deveriam rodar no navegador.
+Developer. I build internal systems and automations at work, and in my free time I make things that probably shouldn't run in a browser.
 
 Arch Linux + Hyprland.
 
@@ -23,13 +23,13 @@ Arch Linux + Hyprland.
 
 <br/>
 
-**Projetos**
+**Projects**
 
-- [ps2-web](https://github.com/brayanspagnol/ps2-web) — jogos de PS2 no navegador, emulador Play! em WebAssembly
-- [screenup](https://github.com/brayanspagnol/screenup) — cola uma URL e ela abre numa janela flutuante sobre tudo no Linux
-- [gif-extension](https://github.com/brayanspagnol/gif-extension) — busca GIFs e arrasta direto pra qualquer app
+- [ps2-web](https://github.com/brayanspagnol/ps2-web) — PS2 games in the browser, Play! emulator compiled to WebAssembly
+- [screenup](https://github.com/brayanspagnol/screenup) — paste a URL and it opens in a floating window on top of everything on Linux
+- [gif-extension](https://github.com/brayanspagnol/gif-extension) — search GIFs and drag them straight into any app
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/brayanspagnol?style=flat-square&label=seguidores&color=111)](https://github.com/brayanspagnol?tab=followers)
-![Profile views](https://komarev.com/ghpvc/?username=brayanspagnol&style=flat-square&color=111111&label=visitas)
+[![GitHub followers](https://img.shields.io/github/followers/brayanspagnol?style=flat-square&label=followers&color=111)](https://github.com/brayanspagnol?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=brayanspagnol&style=flat-square&color=111111&label=profile%20views)
