@@ -39,11 +39,12 @@ and in my free time I make things that probably shouldn't run in a browser.<br/>
 
 <br/>
 
-<img src="./assets/eye.jpg" width="60%" alt="" />
-
-<br/><br/>
-
 [![GitHub followers](https://img.shields.io/github/followers/brayanspagnol?style=flat-square&label=followers&color=1a1713)](https://github.com/brayanspagnol?tab=followers)
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=brayanspagnol.brayanspagnol&left_text=views&left_color=%231a1713&right_color=%23332b22)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbrayanspagnol&query=public_repos&label=repos&style=flat-square&color=1a1713&labelColor=0d0c0b)
+[![ps2-web stars](https://img.shields.io/github/stars/brayanspagnol/ps2-web?label=ps2-web%20stars&style=flat-square&color=1a1713&labelColor=0d0c0b)](https://github.com/brayanspagnol/ps2-web)
+![Last commit](https://img.shields.io/github/last-commit/brayanspagnol/ps2-web?label=last%20commit&style=flat-square&color=1a1713&labelColor=0d0c0b)
+![Based in Brazil](https://img.shields.io/badge/based_in-Brazil-1a1713?style=flat-square&labelColor=0d0c0b)
+![Open to collabs](https://img.shields.io/badge/open_to-collabs-1a1713?style=flat-square&labelColor=0d0c0b)
 
 </div>
